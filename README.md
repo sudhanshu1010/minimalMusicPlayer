@@ -7,3 +7,5 @@ To use it with your local machine follow the below steps.
 2. To visualise some good effects add suitable images in 'Cover' folder
 3. Run 'index.html', prefer live server
 4. Enjoy your melody
+
+For view check out https://sudhanshu1010.github.io/minimalMusicPlayer/
