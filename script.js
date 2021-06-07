@@ -9,7 +9,7 @@ const title = document.querySelector("#title");
 const cover = document.querySelector("#cover");
 
 // song titles
-const songs = ['audio01', 'audio02'];
+const songs = ['Call out my name', 'Plastic - Dino James', 'Moonlight - Harnoor'];
 
 // keep tracks of the song
 let songIndex = 0; // setting audio02 as default
